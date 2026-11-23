@@ -1,4 +1,5 @@
 using System;
+using Gymsystem_Api.Dto;
 using Gymsystem_Api.Models;
 
 namespace Gymsystem_Api.Endpoints;
@@ -12,7 +13,7 @@ public static class MemberEndpoint
             {
                 id = Guid.NewGuid(),
                 name = "John Doe",
-                SubDate = DateOnly.FromDateTime(DateTime.UtcNow),
+                RegisterDate = DateTime.UtcNow,
                 SubPeriod = 30,
                 SubType = "Monthly"
             },
@@ -20,7 +21,7 @@ public static class MemberEndpoint
             {
                 id = Guid.NewGuid(),
                 name = "Jane Smith",
-                SubDate = DateOnly.FromDateTime(DateTime.UtcNow),
+                RegisterDate = DateTime.UtcNow,
                 SubPeriod = 90,
                 SubType = "Quarterly"
             }
@@ -30,7 +31,14 @@ public static class MemberEndpoint
     { 
 
         var group = app.MapGroup("/Members");
-        group.MapGet("/", () => Results.Ok(members));
+        group.MapGet("/", () => 
+        members.Select(members => new MemberDto(
+            members.id,
+            members.name,
+            members.RegisterDate,
+            members.SubPeriod,
+            members.SubType
+        )));
 
         group.MapGet("/{id}", (Guid id) => members.Find(m => m.id == id));
      

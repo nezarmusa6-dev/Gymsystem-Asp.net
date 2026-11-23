@@ -6,7 +6,7 @@ public class Member
 {
     public Guid id { get; set; }
     public string name { get; set; }
-    public DateOnly SubDate { get; set; }
+    public DateTime RegisterDate { get; set; }
     public int SubPeriod { get; set; }
     public string SubType { get; set; }
 }
