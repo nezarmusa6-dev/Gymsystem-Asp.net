@@ -1,0 +1,7 @@
+@Gymsystem_Api_HostAddress = http://localhost:5195
+
+GET {{Gymsystem_Api_HostAddress}}/Members
+
+###
+
+GET {{Gymsystem_Api_HostAddress}}/Members/7d33a34a-8ca1-4375-9c8a-d43378bfa6f7

@@ -1,0 +1,33 @@
+C:\Users\nezar\OneDrive\Desktop\Projects\C_Sharp Projects\GymSystem Asp.net\Gymsystem Api\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\nezar\OneDrive\Desktop\Projects\C_Sharp Projects\GymSystem Asp.net\Gymsystem Api\bin\Debug\net10.0\appsettings.json
+C:\Users\nezar\OneDrive\Desktop\Projects\C_Sharp Projects\GymSystem Asp.net\Gymsystem Api\bin\Debug\net10.0\Gymsystem Api.staticwebassets.endpoints.json
+C:\Users\nezar\OneDrive\Desktop\Projects\C_Sharp Projects\GymSystem Asp.net\Gymsystem Api\bin\Debug\net10.0\Gymsystem Api.exe
+C:\Users\nezar\OneDrive\Desktop\Projects\C_Sharp Projects\GymSystem Asp.net\Gymsystem Api\bin\Debug\net10.0\Gymsystem Api.deps.json
+C:\Users\nezar\OneDrive\Desktop\Projects\C_Sharp Projects\GymSystem Asp.net\Gymsystem Api\bin\Debug\net10.0\Gymsystem Api.runtimeconfig.json
+C:\Users\nezar\OneDrive\Desktop\Projects\C_Sharp Projects\GymSystem Asp.net\Gymsystem Api\bin\Debug\net10.0\Gymsystem Api.dll
+C:\Users\nezar\OneDrive\Desktop\Projects\C_Sharp Projects\GymSystem Asp.net\Gymsystem Api\bin\Debug\net10.0\Gymsystem Api.pdb
+C:\Users\nezar\OneDrive\Desktop\Projects\C_Sharp Projects\GymSystem Asp.net\Gymsystem Api\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\nezar\OneDrive\Desktop\Projects\C_Sharp Projects\GymSystem Asp.net\Gymsystem Api\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\nezar\OneDrive\Desktop\Projects\C_Sharp Projects\GymSystem Asp.net\Gymsystem Api\obj\Debug\net10.0\Gymsystem Api.csproj.AssemblyReference.cache
+C:\Users\nezar\OneDrive\Desktop\Projects\C_Sharp Projects\GymSystem Asp.net\Gymsystem Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\nezar\OneDrive\Desktop\Projects\C_Sharp Projects\GymSystem Asp.net\Gymsystem Api\obj\Debug\net10.0\Gymsystem Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nezar\OneDrive\Desktop\Projects\C_Sharp Projects\GymSystem Asp.net\Gymsystem Api\obj\Debug\net10.0\Gymsystem Api.AssemblyInfoInputs.cache
+C:\Users\nezar\OneDrive\Desktop\Projects\C_Sharp Projects\GymSystem Asp.net\Gymsystem Api\obj\Debug\net10.0\Gymsystem Api.AssemblyInfo.cs
+C:\Users\nezar\OneDrive\Desktop\Projects\C_Sharp Projects\GymSystem Asp.net\Gymsystem Api\obj\Debug\net10.0\Gymsystem Api.csproj.CoreCompileInputs.cache
+C:\Users\nezar\OneDrive\Desktop\Projects\C_Sharp Projects\GymSystem Asp.net\Gymsystem Api\obj\Debug\net10.0\Gymsystem Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nezar\OneDrive\Desktop\Projects\C_Sharp Projects\GymSystem Asp.net\Gymsystem Api\obj\Debug\net10.0\Gymsystem Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nezar\OneDrive\Desktop\Projects\C_Sharp Projects\GymSystem Asp.net\Gymsystem Api\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\nezar\OneDrive\Desktop\Projects\C_Sharp Projects\GymSystem Asp.net\Gymsystem Api\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\nezar\OneDrive\Desktop\Projects\C_Sharp Projects\GymSystem Asp.net\Gymsystem Api\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\nezar\OneDrive\Desktop\Projects\C_Sharp Projects\GymSystem Asp.net\Gymsystem Api\obj\Debug\net10.0\scopedcss\bundle\Gymsystem Api.styles.css
+C:\Users\nezar\OneDrive\Desktop\Projects\C_Sharp Projects\GymSystem Asp.net\Gymsystem Api\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\nezar\OneDrive\Desktop\Projects\C_Sharp Projects\GymSystem Asp.net\Gymsystem Api\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\nezar\OneDrive\Desktop\Projects\C_Sharp Projects\GymSystem Asp.net\Gymsystem Api\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\nezar\OneDrive\Desktop\Projects\C_Sharp Projects\GymSystem Asp.net\Gymsystem Api\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\nezar\OneDrive\Desktop\Projects\C_Sharp Projects\GymSystem Asp.net\Gymsystem Api\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\nezar\OneDrive\Desktop\Projects\C_Sharp Projects\GymSystem Asp.net\Gymsystem Api\obj\Debug\net10.0\Gymsyste.540CE8E9.Up2Date
+C:\Users\nezar\OneDrive\Desktop\Projects\C_Sharp Projects\GymSystem Asp.net\Gymsystem Api\obj\Debug\net10.0\Gymsystem Api.dll
+C:\Users\nezar\OneDrive\Desktop\Projects\C_Sharp Projects\GymSystem Asp.net\Gymsystem Api\obj\Debug\net10.0\refint\Gymsystem Api.dll
+C:\Users\nezar\OneDrive\Desktop\Projects\C_Sharp Projects\GymSystem Asp.net\Gymsystem Api\obj\Debug\net10.0\Gymsystem Api.pdb
+C:\Users\nezar\OneDrive\Desktop\Projects\C_Sharp Projects\GymSystem Asp.net\Gymsystem Api\obj\Debug\net10.0\Gymsystem Api.genruntimeconfig.cache
+C:\Users\nezar\OneDrive\Desktop\Projects\C_Sharp Projects\GymSystem Asp.net\Gymsystem Api\obj\Debug\net10.0\ref\Gymsystem Api.dll
