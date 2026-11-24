@@ -8,7 +8,7 @@ var app = builder.Build();
 
 app.UseHttpsRedirection();
 
-app.MapMemberEndpint();
+app.MapMemberEndpoint();
 
 app.Run();
 

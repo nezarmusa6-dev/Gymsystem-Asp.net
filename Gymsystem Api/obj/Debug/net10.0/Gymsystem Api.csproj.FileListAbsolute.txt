@@ -31,3 +31,4 @@ C:\Users\nezar\OneDrive\Desktop\Projects\C_Sharp Projects\GymSystem Asp.net\Gyms
 C:\Users\nezar\OneDrive\Desktop\Projects\C_Sharp Projects\GymSystem Asp.net\Gymsystem Api\obj\Debug\net10.0\Gymsystem Api.pdb
 C:\Users\nezar\OneDrive\Desktop\Projects\C_Sharp Projects\GymSystem Asp.net\Gymsystem Api\obj\Debug\net10.0\Gymsystem Api.genruntimeconfig.cache
 C:\Users\nezar\OneDrive\Desktop\Projects\C_Sharp Projects\GymSystem Asp.net\Gymsystem Api\obj\Debug\net10.0\ref\Gymsystem Api.dll
+C:\Users\nezar\OneDrive\Desktop\Projects\C_Sharp Projects\GymSystem Asp.net\Gymsystem Api\obj\Debug\net10.0\Gymsystem Api.sourcelink.json

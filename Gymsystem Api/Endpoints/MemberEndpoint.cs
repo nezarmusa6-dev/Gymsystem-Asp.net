@@ -27,7 +27,7 @@ public static class MemberEndpoint
             }
         };
         
-    public static void MapMemberEndpint(this WebApplication app)
+    public static void MapMemberEndpoint(this WebApplication app)
     { 
 
         var group = app.MapGroup("/Members");
@@ -40,7 +40,19 @@ public static class MemberEndpoint
             members.SubType
         )));
 
-        group.MapGet("/{id}", (Guid id) => members.Find(m => m.id == id));
-     
+        group.MapGet("/{id}", (Guid id) =>
+        {
+            var member = members.Find(m => m.id == id);
+            if (member is null)
+            {
+                return Results.NotFound();
+            }
+            return Results.Ok(new CreateMemberDto(
+                member.name,
+                member.RegisterDate,
+                member.SubPeriod,
+                member.SubType
+            ));
+        });
     }
 }
